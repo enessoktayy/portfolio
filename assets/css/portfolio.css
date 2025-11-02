@@ -11,6 +11,11 @@ body{
   color: #212121;
 }
 
+header{
+  display: flex;
+  justify-content: end;
+}
+
 .container{
   width: 1110px;
 }
