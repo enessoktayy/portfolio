@@ -1,0 +1,155 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Montserrat";
+  display: flex;
+  justify-content: center;
+  color: #212121;
+}
+
+.container{
+  width: 1110px;
+}
+
+.head-photo{
+  margin-bottom: 24px;
+  border-radius: 12px;
+}
+
+.detail a{
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.motto{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.motto h4{
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.35px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}
+
+.motto h1{
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: -0.7px;
+  font-weight: 600;  
+  margin-bottom: 40px;
+}
+
+.motto img{
+  margin-right: 32px;
+}
+
+.projects{
+  margin: 120px 0px;
+}
+
+.projects h4{
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.35px;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+
+.kfc{
+  padding: 24px;
+  border: solid 1px #c4c4c4;
+  border-radius: 12px;
+  margin-bottom: 80px;
+}
+
+.kfc h4{
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.35px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.kfc p{
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-bottom: 64px;
+}
+
+.humans{
+  padding: 24px;
+  border: solid 1px #c4c4c4;
+  border-radius: 12px;
+  margin-bottom: 80px;
+}
+
+.humans h4{
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.35px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.humans p{
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-bottom: 64px;
+}
+
+.bird{
+  padding: 24px;
+  border: solid 1px #c4c4c4;
+  border-radius: 12px;
+  margin-bottom: 80px;
+}
+
+.bird h4{
+  font-size: 30px;
+  line-height: 37px;
+  letter-spacing: -0.35px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.bird p{
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 400;
+  margin-bottom: 64px;
+}
+
+.connect{
+  margin: 120px 0px;
+}
+
+.connect h6 {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 600;
+}
+
+.connect h3 {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 600;
+  letter-spacing: -0.4px;
+}
+
+span {
+  color: #0D6EFD;
+}
